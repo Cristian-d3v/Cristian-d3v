@@ -1,13 +1,12 @@
   </div>
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I°m+Cristian.....;Software+Engineer+Student;Data+Science+Enthusiast..."/>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 Mi interés en la tecnología y el análisis de datos
 ha sido el motor de mi carrera, y busco siempre optimizar 
 el uso de los datos para mejorar resultados tangibles.
 Soy un apasionado del mundo de Data Scientist y la ingenieria de software
 con experiencia en el desarrollo de soluciones tecnológicas innovadoras
 y en el análisis y procesamiento de grandes volúmenes de datos.
-
 
 ### Contacto:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-garro-salazar-ba266b261/)
