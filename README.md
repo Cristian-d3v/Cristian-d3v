@@ -4,6 +4,7 @@
 Mi interés en la tecnología y el análisis de datos
 ha sido el motor de mi carrera, para mejorar resultados.
 
+
 Soy un apasionado del mundo de el analisis de datos y la ingenieria de software
 con experiencia en el desarrollo de soluciones tecnológicas innovadoras
 y en el análisis y procesamiento de grandes volúmenes de datos.
