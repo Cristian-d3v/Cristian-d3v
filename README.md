@@ -8,6 +8,7 @@ Soy un apasionado del mundo de el analisis de datos y la ingenieria de software
 con experiencia en el desarrollo de soluciones tecnológicas innovadoras
 y en el análisis y procesamiento de grandes volúmenes de datos.
 
+En este perfil veran algunos proyectos que e podido trabajar tanto en R y python como en Power BI.
 ### Contacto:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-garro-salazar-ba266b261/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.cristiansalazarcr3@gmail.com)
