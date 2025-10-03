@@ -4,9 +4,9 @@
 Hola, me da mucho gusto que puedas entrar y leer un poco sobre mi,
 soy Cristian y soy un estudiante de la rama de ingeniera de software 
 pero tambien me e encontrado desarrollando mis habilidades y entendimiento 
-sobre el area de analista de datos,
+sobre el area de analista de datos.
 
-e podido completar el tecnico de esta misma y me encuentro
+E podido completar el tecnico de esta misma y me encuentro
 buscando como desarrollar mas mis habilidades de estos mismos procesos, 
 tengo experiencia manejando 
 distintas herramientas para el analisis de datos tales como R, Python, SQL y power BI
