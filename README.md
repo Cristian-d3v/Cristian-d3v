@@ -5,6 +5,8 @@ Hola, me da mucho gusto que puedas entrar y leer un poco sobre mi, soy Cristian 
 pero tambien me e encontrado desarrollando mis habilidades y entendimiento sobre el area de analista de datos, e podido completar el tecnico de esta misma y me encuentro
 buscando como desarrollar mas mis habilidades de estos mismos procesos, tengo experiencia manejando distintas herramientas para el analisis de datos tales como R, Python, SQL y power BI
 
+Arriba sobre este texto podras encontrar como e podido desarrollar proyectos que e podido realizar en este tiempo de aprendizaje y me gustaria mucho que valoraras el desempeño que e puesto en estos.
+
 
 ### Contacto:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-garro-salazar-ba266b261/)
