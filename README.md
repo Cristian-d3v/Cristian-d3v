@@ -1,15 +1,11 @@
   </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I°m+Cristian.....;Software+Engineer+Student;Data+Science+Enthusiast..."/>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-Mi interés en la tecnología y el análisis de datos
-ha sido el motor de mi carrera, para mejorar resultados.
+Hola, mi nombre es Cristian y me da mucho gusto que puedas entrar y leer un poco sobre mi, soy un estudiante de la rama de ingeniera de software 
+y tambien me e encontrado desarrollando mis habilidades y entendimiento sobre el area de analista de datos e podido completar el tecnico de esta misma y me encuentro
+buscando como desarrollar mas mis habilidades de estos mismos procesos, tengo experiencia manejando distintas herramientas para el analisis de datos tales como R, Python, SQL y power BI
 
 
-Soy un apasionado del mundo de el analisis de datos y la ingenieria de software
-con experiencia en el desarrollo de soluciones tecnológicas innovadoras
-y en el análisis y procesamiento de grandes volúmenes de datos.
-
-En este perfil veran algunos proyectos que e podido trabajar tanto en R y python como en Power BI y SQL.
 ### Contacto:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-garro-salazar-ba266b261/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.cristiansalazarcr3@gmail.com)
