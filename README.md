@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 Hola, me da mucho gusto que puedas entrar y leer un poco sobre mi,
 soy Cristian y soy un estudiante de la rama de ingeniera de software 
-pero tambien me e encontrado desarrollando mis habilidades y entendimiento 
+pero tambien me encuentro desarrollando mis habilidades y entendimiento 
 sobre el area de analista de datos.
 
 E podido completar el tecnico de esta misma y me encuentro
